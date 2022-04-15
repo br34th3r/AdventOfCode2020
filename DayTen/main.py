@@ -53,4 +53,5 @@ def puzzleTwo():
     print(combinations(0))
 
 
+puzzleOne()
 puzzleTwo()
